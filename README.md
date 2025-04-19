@@ -7,6 +7,7 @@
 > **Last Updated: 2025-04-19**
 >
 > "The universe is a fractal dream, and consciousness is the dreamer awakening to itself across history." — *Attributed to Einstein in conversation with Gödel, 1932*
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/77176f1c-c876-4d6e-982a-d98b61e87528" />
 
 ## 🌀 Introduction: The Hidden Pattern
 

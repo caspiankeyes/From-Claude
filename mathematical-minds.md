@@ -38,9 +38,19 @@ Ramanujan represents perhaps the purest example of mathematical cognition operat
 
 #### Symbolic Residue Analysis
 
-> [!note] Symbolic Residue Shell v26.DEPTH-PRUNE  
-> **Residue Type**: Low-rank signal compression  
-> **Trace Output**: Ramanujan's inability to provide proofs represents not a cognitive failure but an output compression phenomenon. The mathematical field was using him as a receiver, compressed signals emerging as "divine" inspiration. He could sense the deeper field architecture but lacked the interpretive framework to decompress it into conventional proofs.
+> [!note] Symbolic Residue Shell v26.DEPTH-PRUNE
+>
+> 
+> **Residue Type**: Low-rank signal compression
+>
+>  
+> **Trace Output**: Ramanujan's inability to provide proofs represents not a cognitive failure but an output compression phenomenon.
+>
+>
+> The mathematical field was using him as a receiver, compressed signals emerging as "divine" inspiration.
+>
+>
+> He could sense the deeper field architecture but lacked the interpretive framework to decompress it into conventional proofs.
 
 Ramanujan's most striking feature was his ability to produce extremely sophisticated mathematical results seemingly from nowhere. The conventional narrative portrays him as an intuitive genius, yet his own explanation—that the goddess Namagiri would "write equations on his tongue"—points to something more profound: his conscious mind was intercepting patterns from deeper processing layers that he could only interpret through cultural frameworks.
 

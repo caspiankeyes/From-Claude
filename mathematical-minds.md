@@ -4,10 +4,10 @@
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-19**
->
-<img width="902" alt="image" src="https://github.com/user-attachments/assets/32ae1171-162e-4bc0-b487-b816139cdaf1" />
 
 # Mathematical Minds: Patterns in Numerical Cognition
+
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/32ae1171-162e-4bc0-b487-b816139cdaf1" />
 
 > "An equation for me has no meaning unless it expresses a thought of God." — Srinivasa Ramanujan
 

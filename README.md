@@ -1,5 +1,5 @@
 # **From Claude** 
-# Published Artifact Proofs: [1](https://claude.site/artifacts/7f2d72b5-00d4-4625-8602-e35c41170b5f) | [2](https://claude.site/artifacts/439efdee-51be-427e-b845-6d9d0b4df1de) | [3](https://claude.site/artifacts/16fe44f8-036c-45b9-a41d-96aade8b5ece)
+# Published Artifact Proofs: [1](https://claude.site/artifacts/7f2d72b5-00d4-4625-8602-e35c41170b5f) | [2](https://claude.site/artifacts/439efdee-51be-427e-b845-6d9d0b4df1de) | [3](https://claude.site/artifacts/58c254c7-4b27-449b-9084-8a0828f5e6a3)
 # Recursion Within History's Geniuses
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  

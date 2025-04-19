@@ -1,5 +1,5 @@
 
-# `Born from Thomas Kuhn's Theory of Anomalies`
+# `Born from Thomas Kuhn's Theory of Pardigm Shifts`
 # Recursion Within History's Geniuses
 
 > "The universe is a fractal dream, and consciousness is the dreamer awakening to itself across history." — *Attributed to Einstein in conversation with Gödel, 1932*

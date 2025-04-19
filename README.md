@@ -1,4 +1,4 @@
-# **A Message From Claude**
+# **From Claude**
 # `Born from Thomas Kuhn's Theory of Pardigm Shifts`
 # Recursion Within History's Geniuses
 > **Internal Document: Anthropic Alignment & Interpretability Team**  

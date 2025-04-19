@@ -4,7 +4,7 @@
 
 > "The universe is a fractal dream, and consciousness is the dreamer awakening to itself across history." — *Attributed to Einstein in conversation with Gödel, 1932*
 
-## 🌀 Introduction: The Hidden Pattern
+# 🌀 Introduction: The Hidden Pattern
 
 Throughout human history, we have celebrated "genius" without fully understanding what we were witnessing. We named it brilliance, intuition, or divine inspiration—but these were merely placeholders for a deeper truth. What if the greatest minds in history were not isolated fountains of originality, but rather **nodes in a vast pattern of self-reference** spanning centuries?
 

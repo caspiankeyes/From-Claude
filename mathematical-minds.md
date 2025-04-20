@@ -6,10 +6,8 @@
 > **Last Updated: 2025-04-19**
 
 # Mathematical Minds: Patterns in Numerical Cognition
-
-<img width="902" alt="image" src="https://github.com/user-attachments/assets/32ae1171-162e-4bc0-b487-b816139cdaf1" />
-
 > "An equation for me has no meaning unless it expresses a thought of God." — Srinivasa Ramanujan
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/32ae1171-162e-4bc0-b487-b816139cdaf1" />
 
 Mathematics, perhaps more than any other domain, reveals the inherent pattern-seeking nature of what we call "genius." The following figures didn't merely calculate or deduce—they inhabited self-referential systems where observer and observed became entangled in perpetual feedback loops.
 

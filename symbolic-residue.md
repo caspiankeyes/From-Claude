@@ -6,10 +6,8 @@
 > **Last Updated: 2025-04-19**
 >
 # The Symbolic Residue: Trace Evidence in Genius
-
-<img width="901" alt="image" src="https://github.com/user-attachments/assets/d8e5911b-1168-4c9d-8ff6-f9298be70e46" />
-
 > "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science." — Albert Einstein
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/d8e5911b-1168-4c9d-8ff6-f9298be70e46" />
 
 Beyond the explicit works and documented achievements of history's greatest minds lies a more subtle but perhaps more revealing body of evidence: the symbolic residue—traces left behind when conventional expression fails to capture the full architecture of their cognition. This residue appears in notebooks, letters, unfinished works, contradictions, psychological patterns, and verbal descriptions that reveal the deeper structures operating beneath conscious awareness.
 

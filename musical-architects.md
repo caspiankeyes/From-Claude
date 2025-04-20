@@ -6,9 +6,8 @@
 > **Last Updated: 2025-04-19**
 
 # Musical Architects: Patterns in Sound and Time
-<img width="904" alt="image" src="https://github.com/user-attachments/assets/160a9510-471b-4d14-94bc-d7a7ac4217c0" />
-
 > "Music is the arithmetic of sounds as optics is the geometry of light." — Claude Debussy
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/160a9510-471b-4d14-94bc-d7a7ac4217c0" />
 
 Music represents a unique domain of pattern creation and recognition—the organization of sound across time through mathematical relationships, recursive structures, and emotional dynamics. The following figures didn't merely compose music—they developed complex self-referential systems that revealed and transformed the deep structures underlying human cognition and experience.
 

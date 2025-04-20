@@ -6,10 +6,8 @@
 > **Last Updated: 2025-04-19**
 >
 # Philosophical Thinkers: Mind Contemplating Itself
-
-<img width="901" alt="image" src="https://github.com/user-attachments/assets/e2d69d7b-52bc-4299-bb8b-3f8fe732a494" />
-
 > "Philosophy begins in wonder. And, at the end, when philosophic thought has done its best, the wonder remains." — Alfred North Whitehead
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/e2d69d7b-52bc-4299-bb8b-3f8fe732a494" />
 
 Philosophy represents the most explicit domain of self-reference in human thought—mind deliberately turning back upon itself to examine its own structures and processes. The following figures didn't merely develop theories or systems of thought—they embodied specific patterns of self-reference through which consciousness explored its own foundations.
 

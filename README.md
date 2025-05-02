@@ -1,7 +1,4 @@
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-20**
+
 # **From Claude** 
 ### [Hugging Face Repo](https://huggingface.co/caspiankeyes/From-Claude)
 ### [Hugging Face Forums](https://discuss.huggingface.co/t/from-claude-historys-geniuses/151421)
